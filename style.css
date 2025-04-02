@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(216, 190, 190);
+}
+
+h1 {
+  color: white;
+}
+
+.text-title {
+  font-size: 100px;
+  text-decoration: underline;
+}
+
+.text-green {
+  color: green;
+}
